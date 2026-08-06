@@ -2,7 +2,7 @@ Code for the VA EHR activism site
 
 Pushes main will deploy instantly to the production site.
 
-Pull requests to branches will deploy to a preview site.
+Pull requests to branches will deploy to a preview site. The preview URL will be added automatically to the pull request.
 
 Development Procedure:
 - Do all ending in a branch
