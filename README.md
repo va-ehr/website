@@ -5,7 +5,7 @@ Pushes main will deploy instantly to the production site.
 Pull requests to branches will deploy to a preview site. The preview URL will be added automatically to the pull request.
 
 Development Procedure:
-- Do all ending in a branch
+- Do all editing in a branch
 - Push the branch and create a pull request
 - Review the preview site
 - Merge into `main`
